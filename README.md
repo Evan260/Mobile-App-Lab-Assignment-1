@@ -3,7 +3,7 @@
 ## 1. System Requirements
 
 - **Operating System**: Windows 10 or later (64-bit)
-- **CPU**: Intel Core i5 or equivalent
+- **CPU**: At least an Intel Core i5 or equivalent
 - **RAM**: At least 8 GB (16 GB recommended for smooth performance with simulators)
 - **Storage**: 10+ GB of free storage for Android SDK and emulators
 
