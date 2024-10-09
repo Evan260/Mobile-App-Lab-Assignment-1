@@ -1,13 +1,13 @@
 # React Native Environment Setup
 
-## 1. System Requirements
+## 1. System requirements
 
 - **Operating System**: Windows 10 or later (64-bit)
 - **CPU**: At least an Intel Core i5 or equivalent
 - **RAM**: At least 8 GB (16 GB recommended for smooth performance with simulators)
 - **Storage**: 10+ GB of free storage for Android SDK and emulators
 
-## 2. Installation Instructions
+## 2. Installation instructions / configuration steps
 
 Follow these steps to install the necessary tools and dependencies:
 
@@ -50,7 +50,7 @@ Follow these steps to install the necessary tools and dependencies:
 1. Download the latest version of [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 2. Add the JDK's `bin` directory to the **Path** environment variable.
 
-## 3. Project Creation
+## 3. Project creation
 
 - Open a terminal and navigate to the directory where you want to create the app.
 - Run the following command to create a new React Native project:
@@ -62,13 +62,13 @@ Follow these steps to install the necessary tools and dependencies:
     cd IncredibleTodoListApp
     ```
 
-## 4. Running the Project
+## 4. Running the project
 
 ### Start the Android Virtual Device (AVD)
 1. Open Android Studio and click on **AVD Manager**.
 2. Start the emulator.
 
-### Run the Project
+### Run the project
 1. Open the terminal and run:
     ```bash
     npx react-native run-android
